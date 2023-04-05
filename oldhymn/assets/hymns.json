@@ -1,0 +1,42 @@
+[
+  {
+    "number": 1,
+    "id": "001",
+    "title_en": "Amazing Grace",
+    "title_yor": "Ipe Nla",
+    "lyrics_en": "Amazing grace! How sweet the sound / That saved a wretch like me! / I once was lost, but now am found; / Was blind, but now I see.",
+    "lyrics_yor": "Ipe nla ni ayo kan / Ti o da mi si niwaju / Mo ti ri aiye mi pada / Mo ti n soro, mo ti n ri."
+  },
+  {
+    "number": 2,
+    "id": "002",
+    "title_en": "All Hail the Power of Jesus' Name",
+    "title_yor": "Oriire Oluwa Jesu",
+    "lyrics_en": "All hail the power of Jesus' Name! / Let angels prostrate fall; / Bring forth the royal diadem, / And crown Him Lord of all.",
+    "lyrics_yor": "Oriire Oluwa Jesu / Gb'orin eni t'eniyan ko le / T'oba ti l'ade t'o ju gbogbo / Oba awon oba lo."
+  },
+  {
+    "number": 3,
+    "id": "003",
+    "title_en": "Great Is Thy Faithfulness",
+    "title_yor": "Ewa Ni B'olohun",
+    "lyrics_en": "Great is Thy faithfulness, O God my Father; / There is no shadow of turning with Thee; / Thou changest not, Thy compassions, they fail not; / As Thou hast been, Thou forever will be.",
+    "lyrics_yor": "Ewa ni b'olohun, Baba mi o / Ko si inu ombinrin l'odo Re / Ogo Re ti wa l'ola, ko si ibi ti o ntiyin / Bi o ti ba wa, O siju kan l'ojojumo."
+  },
+  {
+    "number": 4,
+    "id": "004",
+    "title_en": "How Great Thou Art",
+    "title_yor": "Ewa b'olohun pelu awon angeli",
+    "lyrics_en": "O Lord my God, when I in awesome wonder / Consider all the worlds Thy Hands have made; / I see the stars, I hear the rolling thunder, / Thy power throughout the universe displayed.",
+    "lyrics_yor": "Ewa b'olohun pelu awon angeli / Ewa Re tobi, gbogbo ogo Re / Ti o npe fun wa l'ohun gbogbo ni / Ogo Re tobi ju gbogbo ogo."
+  },
+  {
+    "number": 5,
+    "id": "005",
+    "title_en": "Holy, Holy, Holy",
+    "title_yor": "Oluwa Olore",
+    "lyrics_en": "Holy, holy, holy! Lord God Almighty! / Early in the morning our song shall rise to Thee; / Holy, holy, holy, merciful and mighty! / God in three Persons, blessed Trinity!",
+    "lyrics_yor": "Oluwa olorun mi, Ologo meta / L'aye alaye aye mi yio ma korin / Oluwa olorun mi, ologo meta."
+  }
+]
