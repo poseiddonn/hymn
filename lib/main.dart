@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'homepage.dart';
-
-// import 'home_page.dart';
-// import 'hymnpage.dart';
+import 'home_page.dart';
 
 void main() => runApp(const MyApp());
 
