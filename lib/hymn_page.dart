@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'hymn.dart';
 
-
-
 class HymnPage extends StatelessWidget {
   final Hymn hymn;
   final String language;

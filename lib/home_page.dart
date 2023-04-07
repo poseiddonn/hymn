@@ -129,7 +129,12 @@ class HomePageState extends State<HomePage> {
         ),
         floatingActionButton: FloatingActionButton(
           onPressed: () {
-            //to 
+            showSearch(
+              context: context,
+              delegate: HymnSearchDelegate(
+                filterHymns: filterHymns,
+              ),
+            );
           },
           backgroundColor: Colors.blue,
           child: const Icon(Icons.search),
@@ -153,8 +158,8 @@ Widget hymnList(
             final title = language == 'en' ? hymn.titleEn : hymn.titleYor;
             return Card(
               child: ListTile(
-                title: Text(title),
                 subtitle: Text('Hymn ${hymn.id}'),
+                title: Text(title),
                 onTap: () {
                   Navigator.of(context).push(
                     MaterialPageRoute(
@@ -176,8 +181,8 @@ Widget hymnList(
             final title = (language == 'en') ? hymn.titleEn : hymn.titleYor;
             return Card(
               child: ListTile(
-                title: Text(title),
                 subtitle: Text('Hymn ${hymn.id}'),
+                title: Text(title),
                 onTap: () {
                   Navigator.of(context).push(MaterialPageRoute(
                     builder: (context) => HymnPage(
