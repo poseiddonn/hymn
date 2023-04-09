@@ -158,8 +158,8 @@ Widget hymnList(
             final title = language == 'en' ? hymn.titleEn : hymn.titleYor;
             return Card(
               child: ListTile(
-                subtitle: Text('Hymn ${hymn.id}'),
-                title: Text(title),
+                title: Text('Hymn ${hymn.id}'),
+                subtitle: Text(title),
                 onTap: () {
                   Navigator.of(context).push(
                     MaterialPageRoute(
@@ -181,8 +181,8 @@ Widget hymnList(
             final title = (language == 'en') ? hymn.titleEn : hymn.titleYor;
             return Card(
               child: ListTile(
-                subtitle: Text('Hymn ${hymn.id}'),
-                title: Text(title),
+                title: Text('Hymn ${hymn.id}'),
+                subtitle: Text(title),
                 onTap: () {
                   Navigator.of(context).push(MaterialPageRoute(
                     builder: (context) => HymnPage(
